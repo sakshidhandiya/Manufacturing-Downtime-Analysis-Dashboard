@@ -1,6 +1,8 @@
 
 # Manufacturing Downtime Analysis Dashboard
 
+An interactive Excel dashboard analyzing machine downtime in manufacturing with pivot-based insights, time bucket categorization, and key KPIs for operational efficiency.
+
 ## 📌 Project Overview
 
 This project provides an **interactive Excel dashboard** for analyzing downtime in a manufacturing environment. The dashboard is designed to help operations and management teams monitor machine utilization, identify downtime causes, and support data-driven decision-making to improve efficiency.
